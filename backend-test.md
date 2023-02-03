@@ -47,5 +47,5 @@ Given the time expectations of this exercise, we don't expect anyone to submit a
 It would be great for example if you'd write some unit test 
 
 ## Submitting the Assignment
-When you have finished the assignment, create a github repository and send us the link.
+When you have finished the assignment, create a github repository and send us the link. Please attach a Postman Collection to the repository
 Thank you and good luck! 🙏
