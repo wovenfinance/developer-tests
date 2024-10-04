@@ -7,10 +7,12 @@ This fullstack exercise aims to test your knowledge in both Frontend and Backend
 Implement any of the two tests below
 ## Option 1
 >  Implement the Backend test found [here](https://github.com/wovenfinance/developer-tests/blob/main/backend-test.md)
+
 >  Implement the Woven Finance Landing page found [here](https://business.woven.finance/login)
 
 ## Option 2
 >  Implement the Frontend test found [here](https://github.com/wovenfinance/developer-tests/blob/main/frontend-test.md)
+
 >  Implement a simple Auth API. (Login, Register, Reset Password e.t.c)
 
 ## Technical Notes
